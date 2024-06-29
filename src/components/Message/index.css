@@ -1,0 +1,11 @@
+/* Write your CSS here */
+.message {
+  font-weight: bold;
+  color: #ffffff;
+}
+
+@media (max-width: 576px) {
+  .message {
+    font-size: 20px;
+  }
+}
